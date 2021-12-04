@@ -559,8 +559,8 @@ img {
   overflow: hidden;
 }
 
-.our-projects-item:hover .our-projects-text-top,
-.our-projects-item:focus .our-projects-text-top {
+.our-projects-link:hover .our-projects-text-top,
+.our-projects-link:focus .our-projects-text-top {
   transform: translateY(0);
 }
 
